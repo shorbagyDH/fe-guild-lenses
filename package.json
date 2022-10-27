@@ -1,0 +1,18 @@
+{
+  "name": "fp-guild-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fp-ts": "^2.12.3",
+    "lodash": "^4.17.21",
+    "ramda": "^0.28.0",
+    "shades": "^2.2.0"
+  }
+}
